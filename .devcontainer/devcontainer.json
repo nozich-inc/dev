@@ -54,25 +54,32 @@
 	"extensions": [
 		"humao.rest-client",
 		"github.vscode-pull-request-github",
-
 		"visualstudioexptteam.vscodeintellicode",
 		"visualstudiotxptteam.vscodeintellicode-completions",
-
 		"ms-azuretools.vscode-docker",
-
 		"dbaeumer.vscode-eslint",
 		"christian-kohler.npm-intellisense",
 		"eg2.vscode-npm-script",
-		
 		"ritwickdey.liveserver",
-		"ritwickdey.live-sass",
-
+		"glenn2223.live-sass",
 		"ms-vscode.wordcount",
 		"editorconfig.editorconfig",
 		"streetsidesoftware.code-spell-checker",
 		"redhat.fabric8-analytics",
 		"redhat.vscode-yaml",
-		"bierner.github-markdown-preview"
+		"bierner.github-markdown-preview",
+		"formulahendry.code-runner",
+		"tombonnike.vscode-status-bar-format-toggle",
+		"github.vscode-github-actions",
+		"GitHub.copilot",
+		"GitHub.copilot-chat",
+		"eamodio.gitlens",
+		"wix.vscode-import-cost",
+		"DavidAnson.vscode-markdownlint",
+		"esbenp.prettier-vscode",
+		"foxundermoon.shell-format",
+		"luisfontes19.vscode-swissknife",
+		"DotJoshJohnson.xml"
 	],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
